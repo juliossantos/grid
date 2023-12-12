@@ -59,7 +59,7 @@ header h1 {
     width: 33rem;
     height: 41rem;
     margin: auto;
-    background-image: url(./img/sofa.png);
+    background-image: url(https://raw.githubusercontent.com/juliossantos/grid/main/sofa.png);
     background-repeat: no-repeat;
     border-radius: .6rem;
 
@@ -69,7 +69,7 @@ header h1 {
     width: 33rem;
     height: 41rem;
     margin: auto;
-    background-image: url(./img/key.png);
+    background-image: url(https://raw.githubusercontent.com/juliossantos/grid/main/media.png);
     background-repeat: no-repeat;
     border-radius: .6rem;
 
@@ -79,7 +79,7 @@ header h1 {
     width: 33rem;
     height: 41rem;
     margin: auto;
-    background-image: url(./img/media.png);
+    background-image: url(https://github.com/juliossantos/grid/blob/main/key.png?raw=true);
     background-repeat: no-repeat;
     border-radius: .6rem;
 
@@ -89,7 +89,7 @@ header h1 {
     width: 33rem;
     height: 41rem;
     margin: auto;
-    background-image: url(./img/Bitmap.png);
+    background-image: url(https://github.com/juliossantos/grid/blob/main/Bitmap.png?raw=true);
     background-repeat: no-repeat;
     border-radius: .6rem;
     display: none;
@@ -131,25 +131,25 @@ header h1 {
     }
 
     .sub {
-        background-image: url(./img/sofa2.png);
+        background-image: url(https://github.com/juliossantos/grid/blob/main/sofa2.png?raw=true);
         grid-column: 1/2;
         width: 100%;
     }
 
     .sub2{
-        background-image: url(./img/kay2.png);
+        background-image: url(	https://github.com/juliossantos/grid/blob/main/kay2.png?raw=true);
         grid-column: 2/4;
         width: 100%;
     }
 
     .sub3 {
-        background-image: url(./img/media2.png);
+        background-image: url(https://github.com/juliossantos/grid/blob/main/media2.png?raw=true);
         grid-column: 1/3;
         width: 100%;
     }
 
     .sub4{
-        background-image: url(./img/Bitmap.png);
+        background-image: url(https://github.com/juliossantos/grid/blob/main/Bitmap.png?raw=true);
         grid-column: 3/4;
         width: 100%;
         display: block;
@@ -157,7 +157,6 @@ header h1 {
 
     .page {
         margin: auto;
-        
     }
     
 }
